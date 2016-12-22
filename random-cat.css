@@ -1,0 +1,12 @@
+/*
+Styles
+*/
+
+.cat-img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 15px;
+    margin-left: 0;
+    margin-right: auto;
+    display: block;
+}
