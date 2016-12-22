@@ -9,8 +9,6 @@ Just wanted to do something hilarious for all the cat sites that are using Wordp
 ## Contributors
 
 [Start Wordpress Online](http://startwordpressonline.net/)
-Wordpress username: tero2000
-Email: tero.sarparanta@suomiposti.com
 
 ## License
 WTFPL
